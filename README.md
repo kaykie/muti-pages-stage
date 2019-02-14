@@ -1,4 +1,4 @@
-# vip-authentic
+# demo
 
 ## Project setup
 ```
